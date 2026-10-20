@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jeevan Poojary 👋
 
-<!--
-**jeevanpoojary2007-ctrl/jeevanpoojary2007-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Artificial Intelligence & Machine Learning engineering student.
 
-Here are some ideas to get you started:
+🌱 Currently learning Python and exploring Machine Learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in software development and building practical projects.
+
+🎯 My goal is to develop real-world technical skills and contribute to meaningful projects.
+
+### 🛠️ Skills I'm Learning
+- Python programming
+- Artificial Intelligence and Machine Learning fundamentals
+- Git and GitHub
+
+### 📚 Current Focus
+- Strengthening my Python fundamentals
+- Building beginner-friendly coding projects
+- Preparing for my first technical internship
+
+### 🤝 Connect with Me
+- GitHub: https://github.com/jeevanpoojary2007-ctrl
+
+*I'm learning step by step and improving with every project!* 🚀
